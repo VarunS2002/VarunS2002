@@ -1,4 +1,4 @@
-[//]: # (version: '1.0.2')
+[//]: # (version: '1.0.3')
 
 # [![Animated Name](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00B200&repeat=false&width=700&height=70&lines=Hello+World%2C+welcome+to+my+profile!)](#)
 
@@ -98,7 +98,7 @@ Cryptography, Blockchain, Reverse Engineering
 <tr>
   <td style="text-align: center;width: 50%">
     <a href="https://github.com/VarunS2002">
-      <img src="https://github-readme-stats.vercel.app/api?username=VarunS2002&show_icons=true&theme=dark&include_all_commits=true&hide=contribs&rank_icon=percentile&ring_color=73F290&line_height=30&custom_title=VarunS2002" alt="GitHub Stats" width="500px">
+      <img src="https://github-readme-stats.vercel.app/api?username=VarunS2002&show_icons=true&theme=dark&include_all_commits=true&hide=contribs&rank_icon=percentile&ring_color=73F290&line_height=30&custom_title=VarunS2002%20" alt="GitHub Stats" width="500px">
     </a>
   </td> &nbsp;
   <td style="text-align: center;width: 50%">
