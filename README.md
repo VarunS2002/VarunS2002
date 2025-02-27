@@ -110,7 +110,7 @@ Cryptography, Blockchain, Reverse Engineering
 
 > ## LeetCode Stats
 
-### [![LeetCode Stats](https://leetcard.jacoblin.cool/VarunS2002?theme=dark&font=Roboto%20Flex&show_rank=false)](https://leetcode.com/u/VarunS2002/)
+### [![LeetCode Stats](https://leetcard.jacoblin.cool/VarunS2002?theme=dark&font=Roboto%20Flex&hide=ranking)](https://leetcode.com/u/VarunS2002/)
 
 ### Key DSA Skills
 
