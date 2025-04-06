@@ -114,13 +114,13 @@ Cryptography, Blockchain, Reverse Engineering
 
 ### Key DSA Skills
 
-**🟢Fundamental:** Array, String, Two Pointers, Sorting, Matrix, Stack, Linked List
+**🟢Fundamental:** Array, String, Two Pointers, Sorting, Matrix, Stack, Linked List, Simulation
 
 **🟠Intermediate:** Hash Table, Depth-First Search, Tree, Binary Tree, Breadth-First Search, Binary Search, Recursion,
-Design
+Design, Graph, Math
 
 **🔴Advanced:** Dynamic Programming, Backtracking, Trie, Union Find, Data Stream, Quickselect, Divide and Conquer,
-Monotonic Stack
+Monotonic Stack, Topological Sort
 
 > ## Stack Overflow Stats
 
