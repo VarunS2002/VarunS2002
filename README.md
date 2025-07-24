@@ -65,13 +65,13 @@ Cryptography, Blockchain, Reverse Engineering
 <br />
 <tr>
   <td style="text-align: center;width: 50%">
-    <a href="https://github.com/VarunS2002/TypeScript-Cryptocurrency">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=VarunS2002&repo=TypeScript-Cryptocurrency&theme=dark" alt="TypeScript-Cryptocurrency" />
+    <a href="https://github.com/VarunS2002/React-Django-Secure-E-Commerce">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=VarunS2002&repo=React-Django-Secure-E-Commerce&theme=dark" alt="React-Django-Secure-E-Commerce" />
     </a>
   </td> &nbsp;&nbsp;
   <td style="text-align: center;width: 50%">
-    <a href="https://github.com/VarunS2002/React-WebRTC-Video-Chat">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=VarunS2002&repo=React-WebRTC-Video-Chat&theme=dark"  alt="React-WebRTC-Video-Chat" />
+    <a href="https://github.com/VarunS2002/TypeScript-Cryptocurrency">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=VarunS2002&repo=TypeScript-Cryptocurrency&theme=dark" alt="TypeScript-Cryptocurrency" />
     </a>
   </td>
 </tr>
