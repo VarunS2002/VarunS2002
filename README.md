@@ -1,5 +1,3 @@
-[//]: # (version: '1.0.3')
-
 # [![Animated Name](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00B200&repeat=false&width=700&height=70&lines=Hello+World%2C+welcome+to+my+profile!)](#)
 
 #### <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15" alt="👋"></a>&nbsp; Hi, I'm Varun Shanbhag
