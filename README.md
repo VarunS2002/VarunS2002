@@ -14,7 +14,7 @@
 
 💻 **Programming Languages:** Python, JavaScript, TypeScript, C, C++, Java, Kotlin, Dart, PHP, C#, HTML + CSS
 
-🛠️ **Frameworks/Libraries:** Django + REST APIs, React.js, Angular.js, Ionic, Flutter, Qt, Swing + AWT
+🛠️ **Frameworks/Libraries:** Django + REST APIs, Node.js, React.js, Angular.js, Ionic, Flutter, Qt, Swing + AWT
 
 🗄️ **Database/Deployment:** MySQL, Oracle, SQLite, Django ORM, PL/SQL | Docker, Firebase, GitHub
 
