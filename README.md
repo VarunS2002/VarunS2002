@@ -27,7 +27,7 @@ Cryptography, Blockchain, Reverse Engineering
 
 📱 **Android Rooting, Modifications, and Reverse Engineering**
 
-🎮 **Video Gaming (Counter Strike, GTA, COD, Forza, Rocket League)**
+🎮 **Video Gaming (Counter Strike, PUBG, GTA, COD, Forza, Rocket League)**
 
 🏸 **Sports (Badminton, Soccer, Volleyball, Tennis)**
 
