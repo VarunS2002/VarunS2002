@@ -2,6 +2,8 @@
 
 #### <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15" alt="👋"></a>&nbsp; Hi, I'm Varun Shanbhag
 
+#### 🎓 Bachelor of Science in Information Technology, University of Mumbai, India (2022)
+
 #### 🎓 Master of Computer Science, University of New Brunswick, Canada (2024)
 
 #### 📚 Currently practicing LeetCode and learning AWS
