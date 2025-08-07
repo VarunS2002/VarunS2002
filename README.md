@@ -31,7 +31,7 @@ Cryptography, Blockchain, Reverse Engineering
 
 🎮 **Video Gaming (Counter Strike, PUBG, GTA, COD, Forza, Rocket League)**
 
-🏸 **Sports (Badminton, Soccer, Volleyball, Tennis)**
+🏸 **Sports (Badminton, Cricket, Football, Volleyball, Tennis)**
 
 🔭 **Amateur Astronomy**
 
