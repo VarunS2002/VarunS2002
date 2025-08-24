@@ -6,10 +6,6 @@
 
 #### 🎓 Master of Computer Science, University of New Brunswick, Canada (2024)
 
-#### 📚 Currently practicing LeetCode and learning AWS
-
-#### 🔍 Seeking software development opportunities in 🟥🍁🟥
-
 > ## [LinkedIn Profile](https://www.linkedin.com/in/varun-shanbhag-858b94212/)
 
 > ## Skills
