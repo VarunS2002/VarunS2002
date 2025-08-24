@@ -1,10 +1,10 @@
-# [![Animated Name](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00B200&repeat=false&width=700&height=70&lines=Hello+World%2C+welcome+to+my+profile!)](#)
+![Animated Welcome Message](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00B200&repeat=false&width=700&height=70&lines=Hello+World%2C+welcome+to+my+profile!)
 
-#### <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15" alt="👋"></a>&nbsp; Hi, I'm Varun Shanbhag
+<a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15" alt="👋"></a>&nbsp; **Hi, I'm Varun Shanbhag**
 
-#### 🎓 Bachelor of Science in Information Technology, University of Mumbai, India (2022)
+🎓 **Bachelor of Science in Information Technology, University of Mumbai, India (2022)**
 
-#### 🎓 Master of Computer Science, University of New Brunswick, Canada (2024)
+🎓 **Master of Computer Science, University of New Brunswick, Canada (2024)**
 
 > ## [LinkedIn Profile](https://www.linkedin.com/in/varun-shanbhag-858b94212/)
 
