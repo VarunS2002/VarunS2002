@@ -7,6 +7,8 @@
 
 🎓 **Master of Computer Science, University of New Brunswick, Canada (2024)**
 
+👩🏻‍💻 **Currently doing a Cloud/AI Application Developer Internship @ Apsolut MEA**
+
 > ## [LinkedIn Profile](https://www.linkedin.com/in/varun-shanbhag-858b94212/)
 
 > ## Skills
