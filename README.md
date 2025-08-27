@@ -13,14 +13,18 @@
 
 💻 **Programming Languages:** Python, JavaScript, TypeScript, C, C++, Java, Kotlin, Dart, PHP, C#, HTML + CSS
 
-🛠️ **Frameworks/Libraries:** Django + REST APIs, Node.js, React.js, Angular.js, Ionic, Flutter, Qt, Swing + AWT
+🧩 **Frameworks/Libraries:** Django + REST APIs, Node.js, React.js, Angular.js, Ionic, Flutter, Qt, Swing + AWT
 
-🗄️ **Database/Deployment:** MySQL, Oracle, SQLite, Django ORM, PL/SQL | Docker, Firebase, GitHub
+🗄️ **Database/Deployment:** MySQL, Oracle, SQLite, Django ORM, PL/SQL | Firebase, GitHub
 
 🔐 **Cybersecurity:** Secure Coding, Vulnerability Analysis, Web & Network Security, Software Security & Assurance,
 Cryptography, Blockchain, Reverse Engineering
 
-🤖 **Machine Learning/AI:** Jupyter Notebook, NumPy, Pandas, OpenCV, Matplotlib
+🤖 **Machine Learning/AI:** NumPy, Scikit-learn, Pandas, Matplotlib, OpenCV, YOLO, Llama.cpp, Ollama, Transformers
+
+🛠️ **Tools:** Git, Docker, Jupyter Notebook, IntelliJ Platform (IDEA, PyCharm, WebStorm, CLion, etc.), Android Studio,
+VS Code, Visual Studio, JEB Decompiler, JADX, Apktool
+
 
 > ## Hobbies
 
