@@ -7,7 +7,7 @@
 
 🎓 **Master of Computer Science, University of New Brunswick, Canada (2024)**
 
-👩🏻‍💻 **Currently doing a Cloud/AI Application Developer Internship @ Apsolut MEA**
+👩🏻‍💻 **Currently working as a Cloud/AI Application Developer @ Apsolut MEA**
 
 > ## [LinkedIn Profile](https://www.linkedin.com/in/varun-shanbhag-858b94212/)
 
@@ -15,7 +15,7 @@
 
 💻 **Programming Languages:** Python, JavaScript, TypeScript, C, C++, Java, Kotlin, Dart, PHP, C#, HTML + CSS
 
-🧩 **Frameworks/Libraries:** Django + REST APIs, Node.js, React.js, Angular.js, Ionic, Flutter, Qt, Swing + AWT
+🧩 **Frameworks/Libraries:** Django + REST APIs, Node.js, Express.js, React.js, Angular.js, Ionic, Flutter, Qt, Swing + AWT
 
 🗄️ **Database/Deployment:** MySQL, Oracle, SQLite, Django ORM, PL/SQL | Firebase, GitHub
 
@@ -25,8 +25,10 @@ Cryptography, Blockchain, Reverse Engineering
 🤖 **Machine Learning/AI:** NumPy, Scikit-learn, Pandas, Matplotlib, OpenCV, YOLO, Llama.cpp, Ollama, Transformers
 
 🛠️ **Tools:** Git, Docker, Jupyter Notebook, IntelliJ Platform (IDEA, PyCharm, WebStorm, CLion, etc.), Android Studio,
-VS Code, Visual Studio, JEB Decompiler, JADX, Apktool
+VS Code, Visual Studio, Postman, JEB Decompiler, JADX, Apktool
 
+☁️ **SAP Ecosystem:** SAP BTP, Cloud Foundry, CAPM, UI5 + Fiori, CDS, SAP BAS, HANA Cloud, Job Scheduler, Destinations, 
+Generative AI Hub, Document AI, Deployment, Grounding + RAG
 
 > ## Hobbies
 
