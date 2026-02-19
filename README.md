@@ -47,12 +47,12 @@ Generative AI Hub, Document AI, Deployment, Grounding + RAG
 <tr>
   <td style="text-align: center;width: 50%">
     <a href="https://github.com/VarunS2002/Python-NSE-Option-Chain-Analyzer">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=VarunS2002&repo=Python-NSE-Option-Chain-Analyzer&theme=dark" alt="Python-NSE-Option-Chain-Analyzer" />
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=VarunS2002&repo=Python-NSE-Option-Chain-Analyzer&theme=dark" alt="Python-NSE-Option-Chain-Analyzer" />
     </a>
   </td> &nbsp;&nbsp;
   <td style="text-align: center;width: 50%">
     <a href="https://github.com/VarunS2002/Xposed-Disable-FLAG_SECURE">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=VarunS2002&repo=Xposed-Disable-FLAG_SECURE&theme=dark"  alt="Xposed-Disable-FLAG_SECURE" />
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=VarunS2002&repo=Xposed-Disable-FLAG_SECURE&theme=dark"  alt="Xposed-Disable-FLAG_SECURE" />
     </a>
   </td>
 </tr>
@@ -60,12 +60,12 @@ Generative AI Hub, Document AI, Deployment, Grounding + RAG
 <tr>
   <td style="text-align: center;width: 50%">
     <a href="https://github.com/VarunS2002/Flutter-Sudoku">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=VarunS2002&repo=Flutter-Sudoku&theme=dark" alt="Flutter-Sudoku" />
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=VarunS2002&repo=Flutter-Sudoku&theme=dark" alt="Flutter-Sudoku" />
     </a>
   </td> &nbsp;&nbsp;
   <td style="text-align: center;width: 50%">
     <a href="https://github.com/VarunS2002/Ionic-Tic-Tac-Toe">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=VarunS2002&repo=Ionic-Tic-Tac-Toe&theme=dark"  alt="Ionic-Tic-Tac-Toe" />
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=VarunS2002&repo=Ionic-Tic-Tac-Toe&theme=dark"  alt="Ionic-Tic-Tac-Toe" />
     </a>
   </td>
 </tr>
@@ -73,12 +73,12 @@ Generative AI Hub, Document AI, Deployment, Grounding + RAG
 <tr>
   <td style="text-align: center;width: 50%">
     <a href="https://github.com/VarunS2002/React-Django-Secure-E-Commerce">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=VarunS2002&repo=React-Django-Secure-E-Commerce&theme=dark" alt="React-Django-Secure-E-Commerce" />
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=VarunS2002&repo=React-Django-Secure-E-Commerce&theme=dark" alt="React-Django-Secure-E-Commerce" />
     </a>
   </td> &nbsp;&nbsp;
   <td style="text-align: center;width: 50%">
     <a href="https://github.com/VarunS2002/TypeScript-Cryptocurrency">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=VarunS2002&repo=TypeScript-Cryptocurrency&theme=dark" alt="TypeScript-Cryptocurrency" />
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=VarunS2002&repo=TypeScript-Cryptocurrency&theme=dark" alt="TypeScript-Cryptocurrency" />
     </a>
   </td>
 </tr>
@@ -88,12 +88,12 @@ Generative AI Hub, Document AI, Deployment, Grounding + RAG
 <tr>
   <td style="text-align: center;width: 50%">
     <a href="https://github.com/VarunS2002/Dart-sudoku_solver_generator">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=VarunS2002&repo=Dart-sudoku_solver_generator&theme=dark" alt="Dart-sudoku_solver_generator" />
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=VarunS2002&repo=Dart-sudoku_solver_generator&theme=dark" alt="Dart-sudoku_solver_generator" />
     </a>
   </td> &nbsp;&nbsp;
   <td style="text-align: center;width: 50%">
     <a href="https://github.com/VarunS2002/Dart-interactive_print">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=VarunS2002&repo=Dart-interactive_print&theme=dark" alt="Dart-interactive_print" />
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=VarunS2002&repo=Dart-interactive_print&theme=dark" alt="Dart-interactive_print" />
     </a>
   </td>
 </tr>
@@ -103,12 +103,12 @@ Generative AI Hub, Document AI, Deployment, Grounding + RAG
 <tr>
   <td style="text-align: center;width: 50%">
     <a href="https://github.com/VarunS2002">
-      <img src="https://github-readme-stats.vercel.app/api?username=VarunS2002&show_icons=true&theme=dark&include_all_commits=true&hide=contribs&rank_icon=percentile&ring_color=73F290&line_height=30&custom_title=VarunS2002%20" alt="GitHub Stats" width="500px">
+      <img src="https://github-stats-extended.vercel.app/api?username=VarunS2002&show_icons=true&theme=dark&include_all_commits=true&hide=contribs&rank_icon=percentile&ring_color=73F290&line_height=30&custom_title=VarunS2002%20" alt="GitHub Stats" width="500px">
     </a>
   </td> &nbsp;
   <td style="text-align: center;width: 50%">
     <a href="https://github.com/VarunS2002">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunS2002&layout=compact&langs_count=10&hide=cmake,css,scss,processing&theme=dark" alt="GitHub Top Languages" height="209px">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=VarunS2002&layout=compact&langs_count=10&hide=cmake,css,scss,processing&theme=dark" alt="GitHub Top Languages" height="209px">
     </a>
   </td>
 </tr>
