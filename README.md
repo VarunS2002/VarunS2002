@@ -126,9 +126,3 @@ Design, Graph, Math
 
 **🔴Advanced:** Dynamic Programming, Backtracking, Trie, Union Find, Data Stream, Quickselect, Divide and Conquer,
 Monotonic Stack, Topological Sort
-
-> ## Stack Overflow Stats
-
-<a href="https://stackoverflow.com/users/13978447/VarunS2002">
-  <img height="220" src="https://so-stats.vercel.app/api?user=13978447" alt="Stack Overflow Stats"/>
-</a>
